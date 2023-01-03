@@ -1,3 +1,3 @@
-export default function getStudentIdsSum(lt) {
-	return lt.reduce((counter, currentobj) => counter + currentobj.id, 0);
+expot default function getStudentIdsSum(lst) {
+  return lst.reduce((counter, currentObj) => counter + currentObj.id, 0);
 }
